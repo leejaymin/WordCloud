@@ -17,7 +17,7 @@ Code strcture
 
 ![](https://github.com/leejaymin/WordCloud/blob/master/output.png?raw=true)
 
-- Anlyzing word frequency as follow.
+- Anlyzing word frequency is as follow.
 
 ![](https://github.com/leejaymin/WordCloud/blob/master/Freqency.png?raw=true)
 
