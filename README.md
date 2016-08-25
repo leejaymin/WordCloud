@@ -1,4 +1,4 @@
-# Word Cloud from PDF #
+# Word Cloud from PDF using R #
 
 This project is to create Wrold Cloud from PDF file.
 My code shows how a word cloud can be generated using the `R` programming language on the basis of a given PDF document.
